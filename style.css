@@ -1,0 +1,15 @@
+.note{
+    background-color:antiquewhite ;
+}
+
+.full{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.left{
+    background-color: rgb(175, 142, 102);
+}
+
+.right{
+    background-color: bisque;
+}
